@@ -1,0 +1,61 @@
+/*External CSS for Portfolio*/
+
+* {
+	font-family: 'Quicksand', sans-serif;
+	/*font-family: 'Shrikhand', cursive;*/
+	color: white;
+
+}
+body {
+	background-color: #004961;
+
+}
+
+.a-head {
+	font-family: 'Shrikhand', cursive;
+	color: #FDB900;
+	
+}
+
+.text-car {
+	color: #DE0029;
+}
+
+#home{
+	background-image: url(../img/2.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.heads {
+	font-family: 'Shrikhand', cursive;
+	font-size: 3.5rem;
+	
+
+}
+
+.sub-heads {
+	font-weight: bold;
+	font-size: 1.8rem;
+	
+}
+
+.row-height {
+	height: 100vh;
+	width: 100%;
+}
+
+.img-size {
+	width: 230px;
+	height: 240px;
+}
+
+.bg-contact {
+	background-color: #012349;
+}
+
+.icon-size {
+	width: 20px;
+	height: 20px;
+}
