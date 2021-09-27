@@ -19,6 +19,7 @@ body {
 
 .text-car {
 	color: #DE0029;
+	/*color: #004961;*/
 }
 
 #home{
@@ -47,8 +48,8 @@ body {
 }
 
 .img-size {
-	width: 230px;
-	height: 240px;
+	width: 300px;
+	height: 320px;
 }
 
 .bg-contact {
@@ -58,4 +59,15 @@ body {
 .icon-size {
 	width: 20px;
 	height: 20px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  :root {
+    scroll-behavior: smooth;
+  }
+}
+
+.bg-skills {
+	/*background-color: #192143;*/
+	background-color: #001C1E;
 }
